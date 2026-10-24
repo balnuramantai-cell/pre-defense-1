@@ -1,6 +1,6 @@
 # Non-Functional Requirements
 
-**Project:** Development of a Configurable AI-Powered Customer Support Chatbot  
+**Project:** Development of an AI-powered chatbot for customer support
 **Responsible:** Karakat — System Analyst  
 **Status:** Initial Requirements (Pre-Defense 1)
 
